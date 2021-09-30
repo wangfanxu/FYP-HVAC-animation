@@ -1,4 +1,4 @@
-# FYP_-HVAC_-animation
+# FYP-HVAC-animation
 ## This repo is used for NTU FYP students collaborate to work on HVAC project
 ## How to use Git
 * 1st, set up your own local github
